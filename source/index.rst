@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ethereum Homestead Documentation
+Тест документация
 ===============================================================================
 
 ..  image:: img/ethereum-homestead-documentation-logo.png
@@ -19,7 +19,7 @@ authorized by the :ref:`foundation`, we hope you will find it useful.
 We welcome new :ref:`contributors`.
 
 
-Contents
+Тест тест
 ===============================================================================
 
 .. toctree::
